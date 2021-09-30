@@ -99,8 +99,8 @@ a {
     left: 7px;
     position: absolute;
     background-image: url("images/arrow-bottom.svg");
-    width: 13px;
-    height: 29px;
+    width: 14px;
+    height: 34px;
 
 }
 
@@ -474,7 +474,7 @@ a {
     font-size: 14px;
     appearance: none;
     overflow: hidden;
-    background: url('/images/arrow-select.svg') no-repeat right;
+    background: url('./images/arrow-select.svg') no-repeat right;
     background-position-x: calc(100% - 11px);
     background-size: 16px;
     height: 43px;
